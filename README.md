@@ -10,6 +10,7 @@ Stampa: Ciao a tutti da Dario!
 ## Codice Simone
  
 sono simone ahahahah ho editato
+boh raga non so che scrivere, sincero
 
 
 ## Codice Luca
