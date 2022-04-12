@@ -3,6 +3,9 @@
 
 ## Codice Dario
 
+```
+Stampa: Ciao a tutti da Dario!
+```
 
 ## Codice Simone
  
